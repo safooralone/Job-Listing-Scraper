@@ -29,7 +29,3 @@ A Python-based web scraping tool that leverages **Selenium WebDriver** to extrac
 
 git clone https://github.com/safooralone/Job-Listing-Scraper.git
 cd Job-Listing-scraper
-
-
-```bash
-pip install selenium pa
